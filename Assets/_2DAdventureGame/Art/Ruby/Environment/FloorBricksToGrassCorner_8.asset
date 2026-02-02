@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: tile_0
+  m_Name: FloorBricksToGrassCorner_8
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: 7399533318584292489, guid: 6f7baf5a49e85aa438aeff8d2d7bda76,
-    type: 3}
+  m_Sprite: {fileID: -120119104, guid: 10a2192d7bdab0d44bbe1cf182ec81ef, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
